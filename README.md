@@ -67,7 +67,7 @@ go to `bash` and run:  python rebuild_model.py
 ---
 ▶️ How to Run the Project
 1️⃣ Clone the Repository
-`git clone https://github.com/JanakiVeluri006/MoviMate.git`
+`git clone https://github.com/Varshitha9553/moviemate.git`
 `cd MoviMate`
 
 2️⃣ Install Dependencies
@@ -91,7 +91,7 @@ go to `bash` and run:  python rebuild_model.py
  5. Enhanced UI/UX
 ---
 ## 👤 Author 
-Janaki Veluri
+Varshitha Vijjapu
 Computer Science & Engineering Student
 
 “MoviMate is built to make choosing a movie feel easy, not exhausting.”
