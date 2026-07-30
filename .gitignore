@@ -170,6 +170,7 @@ Desktop.ini
 
 # Model files (uncomment if you want to exclude large model files)
  *.pkl
+ model_files/
 # *.h5
 # *.hdf5
 # *.joblib
