@@ -68,7 +68,7 @@ go to `bash` and run:  python rebuild_model.py
 ▶️ How to Run the Project
 1️⃣ Clone the Repository
 `git clone https://github.com/Varshitha9553/moviemate.git`
-`cd MoviMate`
+`cd movimate`
 
 2️⃣ Install Dependencies
 `pip install -r requirements.txt `
